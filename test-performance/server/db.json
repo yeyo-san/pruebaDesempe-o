@@ -1,0 +1,64 @@
+{
+  "userRoles": [
+    {
+      "id": "1",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "role": "visit"
+    }
+  ],
+  "users": [
+    {
+      "id": "8dc7",
+      "name": "Alejandro",
+      "email": "yeyo-224@hotmail.com",
+      "birthDate": "2000-02-24",
+      "password": "12345",
+      "rol": "1"
+    },
+    {
+      "id": "d5a7",
+      "name": "damian",
+      "email": "damian@gmail.com",
+      "birthDate": "2005-02-09",
+      "password": "12345",
+      "rol": "2"
+    }
+  ],
+  "flights": [
+    {
+      "number": "1",
+      "origin": "Medellin",
+      "destination": "Tokyo",
+      "departure": "2024-09-20",
+      "arrival": "2024-09-21",
+      "capacity": "30",
+      "id": "bd61"
+    },
+    {
+      "number": "2",
+      "origin": "Bogota",
+      "destination": "Taiwan",
+      "departure": "2024-06-20",
+      "arrival": "2024-06-22",
+      "capacity": "22",
+      "id": "9f80"
+    }
+  ],
+  "Booking": [
+    {
+      "id": "0312",
+      "userId": "d5a7",
+      "flightId": "bd61",
+      "bookingDate": "24-08-16"
+    },
+    {
+      "id": "6a3a",
+      "userId": "d5a7",
+      "flightId": "f6bd",
+      "bookingDate": "24-08-15"
+    }
+  ]
+}

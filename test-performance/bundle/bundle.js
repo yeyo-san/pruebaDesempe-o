@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){document.getElementById("root")||alert("No ha sido posible cargar la pagina, vuelve mas tarde"),Router()}));

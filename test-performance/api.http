@@ -1,0 +1,32 @@
+//Obtener usuarios
+GET http://localhost:4000/users
+
+//Obtener roles
+GET http://localhost:4000/userRoles
+
+//Obtener vuelos creados 
+GET http://localhost:4000/flights
+
+//Obtener reservas
+GET http://localhost:4000/Booking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

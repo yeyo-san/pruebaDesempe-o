@@ -1,0 +1,1 @@
+export * from './not_foundPage.js';
